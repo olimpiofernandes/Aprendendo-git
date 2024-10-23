@@ -1,3 +1,7 @@
 texto de teste linha 1
 texto de teste linha 2
+<<<<<<< HEAD
 texto de teste linha 3 - main
+=======
+texto de teste linha 3 - branch teste1
+>>>>>>> teste1
